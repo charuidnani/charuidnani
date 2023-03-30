@@ -1,7 +1,5 @@
 ## Hi, I'm Charu, nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-charu-i-blue?style=flat-square&logo=Linkedin&logoColor=white&link==https://ca.linkedin.com/in/charu-i)](=https://ca.linkedin.com/in/charu-i/)
-
 ## Technologies
 
 ### Language :
