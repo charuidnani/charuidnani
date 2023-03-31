@@ -49,7 +49,7 @@ A web health application geared towards women* to provide them with help resourc
 
 ### [Budget Booster](https://github.com/Keaton11/Budget-Booster)
 ![](https://img.shields.io/badge/-ConUHacks-purple)
-![](https://img.shields.io/badge/-BudgetBooster-darkgreen)<br>
+![](https://img.shields.io/badge/-Best%20Financial%20Solution-darkgreen)<br>
 
 A financial planning application that analyses input information to calculate net income and decides which categories to budget in.<br><br>
 **[GitHub](https://github.com/Keaton11/Budget-Booster)**
