@@ -1,4 +1,4 @@
-## Hi, I'm Charu, nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I'm Charu! Nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 - Currently working at Shopify as a [Dev Degree](https://devdegree.ca/) intern!
 - Studying computer science at Carleton University!
