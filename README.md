@@ -54,8 +54,3 @@ A web health application geared towards women* to provide them with help resourc
 A financial planning application that analyses input information to calculate net income and decides which categories to budget in.<br><br>
 **[GitHub](https://github.com/Keaton11/Budget-Booster)**
 <br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=charuidnani&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=charuidnani&theme=dark&hide_border=true" width = 400>
-</p>
