@@ -43,12 +43,13 @@
 
 A web health application geared towards women* to provide them with help resources regarding illnesses & diseases that are prevalent in women*.
 <br>
+<br>
 **[GitHub](https://github.com/gonzk/her-health) • [Devpost](https://devpost.com/software/herhealth-1pwmti) • [YouTube](https://www.youtube.com/watch?v=j_EjmTCQYTM)**
 
 ### [Budget Booster](https://github.com/Keaton11/Budget-Booster)
 ![](https://img.shields.io/badge/-BudgetBooster-darkgreen)
 ![](https://img.shields.io/badge/-ConUHacks-purple)<br>
 
-A financial planning application that analyses input information to calculate net income and decides which categories to budget in.<br>
+A financial planning application that analyses input information to calculate net income and decides which categories to budget in.<br><br>
 **[GitHub](https://github.com/Keaton11/Budget-Booster)**
 <br>
