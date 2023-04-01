@@ -39,7 +39,7 @@
 
 
 ## Projects I've worked on:
-### [herHealth](https://github.com/gonzk/her-health)
+### [herHealth*](https://github.com/gonzk/her-health)
 ![](https://img.shields.io/badge/-cmd--f-dec19b)
 ![](https://img.shields.io/badge/-TELUS's%20best%20health%20solution-darkgreen)<br>
 
