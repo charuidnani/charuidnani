@@ -46,14 +46,14 @@
 A web health application geared towards women* to provide them with help resources regarding illnesses & diseases that are prevalent in women*.
 <br>
 <br>
-**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]
-(https://github.com/gonzk/her-health) • [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
-(https://www.youtube.com/watch?v=j_EjmTCQYTM)**
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzk/her-health) 
+
+
 
 ### [Budget Booster](https://devpost.com/software/budget-booster)
 ![](https://img.shields.io/badge/-ConUHacks-purple)
 ![](https://img.shields.io/badge/-Best%20Financial%20Solution-darkgreen)<br>
 
 A financial planning application that analyses input information to calculate net income and decides which categories to budget in.<br><br>
-**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keaton11/Budget-Booster)**
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keaton11/Budget-Booster)
 <br>
