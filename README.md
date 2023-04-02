@@ -47,7 +47,7 @@ A web health application geared towards women* to provide them with help resourc
 <br>
 <br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzk/her-health) 
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=j_EjmTCQYTM&t=1s)
 
 
 ### [Budget Booster](https://devpost.com/software/budget-booster)
