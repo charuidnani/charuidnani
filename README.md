@@ -2,7 +2,7 @@
 
 - Currently working at Shopify as a [Dev Degree](https://devdegree.ca/) intern!
 - Studying computer science at Carleton University!
-- Working as part of Shopify's Point of Sale Device Management Team starting May 2023!
+- Working as part of Shopify's KateSQL Platform Team!
 
 ## I'm currently learning:
 - Unix-based operating systems.
