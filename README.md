@@ -1,8 +1,7 @@
 ## Hi, I'm Charu! Nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-- Currently working at Shopify as a [Dev Degree](https://devdegree.ca/) intern!
-- Studying computer science at Carleton University.
-- Working as part of Shopify's KateSQL Platform Team.
+- Software Engineer on Robinhood's Marketing Technologies Team.
+- Previously worked at Shopify as a Dev Degree Intern.
 
 ## Projects I've worked on:
 ### [herHealth*](https://devpost.com/software/herhealth-1pwmti)
